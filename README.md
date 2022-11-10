@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, eu sou angelo silvano</h1>
 <h3 align="center">Um desenvolvedor de frontend apaixonado do Brasil</h3>
 
--
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelosilvanno&show_icons=true&locale=en&layout=compact" alt="angelosilvanno" /></p>
 
 <div>
 
