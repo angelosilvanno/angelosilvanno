@@ -2,7 +2,7 @@
 
 Eu sou o **Ângelo Silvano**, atualmente:  
 
-🎓 **Cursando Bacharelado em Tecnologia da Informação**  
+🎓 **Cursando Bacharelado em Tecnologia da Informação - UFERSA**  
 
 ## 🚀 Tecnologias que uso
 
