@@ -1,7 +1,7 @@
 # Olá, eu sou o Ângelo Silvano! 👋  
 
-* 🎓 Cursando **Bacharelado em Tecnologia da Informação** - UFERSA
-* 💻 Atuo como **desenvolvedor web**, construindo aplicações do **front-end** ao **back-end**.
+* 🎓 Cursando ***Bacharelado em Tecnologia da Informação*** - UFERSA
+* 💻 Atuo como ***desenvolvedor web***, construindo aplicações do ***front-end*** ao ***back-end***.
 
 ## 🚀 Tecnologias que uso
 
