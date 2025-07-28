@@ -3,7 +3,7 @@
 Eu sou o **Ângelo Silvano**, atualmente:  
 
 🎓 **Cursando Bacharelado em Tecnologia da Informação - UFERSA**  
-💻 **Atuo como desenvolvedor web, responsável por criar tanto a parte visual e interativa de uma aplicação (front-end) quanto a sua estrutura de dados (back-end).**
+💻 **Atuo como desenvolvedor web, construindo aplicações do front-end ao back-end.**
 
 ## 🚀 Tecnologias que uso
 
