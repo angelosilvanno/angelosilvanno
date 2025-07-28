@@ -3,6 +3,7 @@
 Eu sou o **Ângelo Silvano**, atualmente:  
 
 🎓 **Cursando Bacharelado em Tecnologia da Informação - UFERSA**  
+💻 Atuo como **desenvolvedor front-end**, focado em criar interfaces modernas, funcionais e responsivas.
 
 ## 🚀 Tecnologias que uso
 
