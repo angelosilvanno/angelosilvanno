@@ -1,24 +1,29 @@
 # Olá, eu sou o Ângelo Silvano! 👋  
 
-* 🎓 Cursando ***Bacharelado em Tecnologia da Informação*** - UFERSA
-* 💻 Atuo como ***desenvolvedor web***, construindo aplicações do ***front-end*** ao ***back-end***.
+🎓 Estudante de **Bacharelado em Tecnologia da Informação - UFERSA**  
+💻 **Desenvolvedor Front-End** com experiência em **React.js, Next.js e TypeScript**  
+📚 Atualmente aprendendo **SQL e Banco de Dados (PostgreSQL)**  
 
-## 🚀 Tecnologias que uso
+---
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="TailwindCSS" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50" alt="Bootstrap" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" alt="Nextjs" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="PostgreSQL" style="margin: 5px;" />
-</div>
+## 🚀 Tecnologias  
 
+**Front-End:** React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Bootstrap  
+**Banco de Dados (aprendizado):** SQL, PostgreSQL  
+**Ferramentas:** Git, GitHub  
 
-## 📊 Estatísticas
+---
+
+## 📂 Projetos em Destaque  
+
+- [**Portfólio Pessoal**](https://angelosilvannodev.vercel.app/) → Desenvolvido em Next.js e TailwindCSS, mostrando meus principais projetos e experiências.  
+- [**Projeto X**](link-do-repo) → (breve descrição do que faz).  
+- [**Projeto Y**](link-do-repo) → (breve descrição do que faz).  
+
+---
+
+## 📊 Estatísticas  
+
 <div>
   <a href="https://github.com/angelosilvanno">
     <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelosilvanno&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
@@ -26,10 +31,13 @@
   </a>
 </div>  
 
+---
+
 ## 📬 Como falar comigo?  
+
 <div>
-  <a href="mailto:familiasabino14@gmail.com">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:angelo.sabino@alunos.ufersa.edu.br">
+    <img loading="lazy" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>  
   <a href="https://www.linkedin.com/in/angelosilvanno/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
