@@ -1,7 +1,18 @@
 # Olá, eu sou o Ângelo Silvano! 👋  
 
-* 🎓 Cursando ***Bacharelado em Tecnologia da Informação*** - UFERSA
-* 💻 Atuo como ***desenvolvedor web***, construindo aplicações do ***front-end*** ao ***back-end***.
+## 👋 Sobre Mim
+Sou um desenvolvedor web apaixonado por transformar ideias em código e criar interfaces que proporcionem uma ótima experiência ao usuário. Atualmente, curso **Bacharelado em Tecnologia da Informação** na UFERSA e foco em construir aplicações modernas, do front-end ao back-end.
+
+## ✨ Projetos em Destaque
+Aqui estão alguns projetos que desenvolvi e que demonstram minhas habilidades.
+
+| Projeto | Descrição | Tecnologias | Deploy |
+| :--- | :--- | :--- | :--- |
+| **[Nome do seu Projeto 1](link-para-o-repo)** | Uma breve descrição do que o projeto faz e seu objetivo principal. | `React` `TypeScript` `Tailwind` | [🔗 Ver Online](link-do-deploy) |
+| **[Nome do seu Projeto 2](link-para-o-repo)** | Uma breve descrição do que o projeto faz e seu objetivo principal. | `Next.js` `PostgreSQL` `CSS` | [🔗 Ver Online](link-do-deploy) |
+| **[Nome do seu Projeto 3](link-para-o-repo)** | Uma breve descrição do que o projeto faz e seu objetivo principal. | `JavaScript` `HTML` `API Rest` | [🔗 Ver Online](link-do-deploy) |
+
+<br/>
 
 ## 🚀 Tecnologias que uso
 
@@ -34,3 +45,4 @@
   <a href="https://www.linkedin.com/in/angelosilvanno/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>  
+</div>
