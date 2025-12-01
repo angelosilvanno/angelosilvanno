@@ -21,8 +21,11 @@
 ## 📊 Estatísticas 
 <div> 
   <a href="https://github.com/angelosilvanno"> 
-    <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelosilvanno&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/> 
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=angelosilvanno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <!-- Estatísticas gerais -->
+    <img src="https://github-readme-stats.vercel.app/api?username=angelosilvanno&show_icons=true&count_private=true&theme=default" height="160" alt="Estatísticas do GitHub" />
+    
+    <!-- Linguagens mais usadas -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelosilvanno&layout=compact&langs_count=7&theme=default" height="160" alt="Linguagens mais usadas" />
   </a> 
 </div>
 
