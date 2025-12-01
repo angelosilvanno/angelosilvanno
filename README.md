@@ -18,14 +18,26 @@
 </div>
 
 
-## 📊 Estatísticas 
-<div> 
-  <a href="https://github.com/angelosilvanno"> 
-   <img src="https://img.shields.io/github/followers/angelosilvanno?label=Seguidores&style=for-the-badge" alt="Seguidores GitHub" />
-    <img src="https://img.shields.io/github/repos/angelosilvanno?label=Repositórios&style=for-the-badge" alt="Repositórios GitHub" />
-    <img src="https://img.shields.io/github/stars/angelosilvanno?label=Stars&style=for-the-badge" alt="Estrelas GitHub" />
-  </a> 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<!-- Seguidores, Repositórios e Stars -->
+<a href="https://github.com/angelosilvanno">
+  <img src="https://img.shields.io/github/followers/angelosilvanno?label=Seguidores&style=for-the-badge&logo=github" alt="Seguidores GitHub" />
+  <img src="https://img.shields.io/github/repos/angelosilvanno?label=Repositórios&style=for-the-badge&logo=github" alt="Repositórios GitHub" />
+  <img src="https://img.shields.io/github/stars/angelosilvanno?label=Stars&style=for-the-badge&logo=github" alt="Estrelas GitHub" />
+</a>
+
+<br/>
+
+<!-- Linguagens mais usadas -->
+<a href="https://github.com/angelosilvanno?tab=repositories">
+  <img src="https://img.shields.io/github/languages/top/angelosilvanno?label=Linguagens+Mais+Usadas&style=for-the-badge" alt="Linguagens mais usadas" />
+</a>
+
 </div>
+
 
 ## 📬 Como falar comigo?  
 <div>
