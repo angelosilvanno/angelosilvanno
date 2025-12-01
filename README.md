@@ -18,15 +18,13 @@
 </div>
 
 
-## 📊 Estatísticas do GitHub
-
-<div> 
-  <a href="https://github.com/angelosilvanno"> 
-    <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?angelosilvanno&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/> 
-    <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?angelosilvanno&show_icons=true&theme=dracula" alt="Estatísticas do GitHub"/> 
-  </a> 
-</div>
-
+## 📊 Estatísticas
+<div>
+  <a href="https://github.com/angelosilvanno">
+    <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelosilvanno&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
+    <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=angelosilvanno&show_icons=true&theme=dracula" alt="Estatísticas do GitHub"/>
+  </a>
+</div>  
 
 ## 📬 Como falar comigo?  
 <div>
@@ -35,4 +33,4 @@
   </a>  
   <a href="https://www.linkedin.com/in/angelosilvanno/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>  
+  </a>
