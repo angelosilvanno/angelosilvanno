@@ -18,13 +18,15 @@
 </div>
 
 
-## 📊 Estatísticas
-<div>
+## 📊 Estatísticas 
+
+<div align="center">
   <a href="https://github.com/angelosilvanno">
     <img src="https://github-readme-stats.vercel.app/api?username=angelosilvanno&show_icons=true&count_private=true&theme=radical" height="160" alt="Estatísticas do GitHub" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelosilvanno&layout=compact&langs_count=7&theme=radical" height="160" alt="Linguagens mais usadas" />
   </a>
-</div>  
+</div>
+
 
 ## 📬 Como falar comigo?  
 <div>
