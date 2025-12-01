@@ -21,11 +21,9 @@
 ## 📊 Estatísticas 
 <div> 
   <a href="https://github.com/angelosilvanno"> 
-    <!-- Estatísticas gerais -->
-    <img src="https://github-readme-stats.vercel.app/api?username=angelosilvanno&show_icons=true&count_private=true&theme=default" height="160" alt="Estatísticas do GitHub" />
-    
-    <!-- Linguagens mais usadas -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelosilvanno&layout=compact&langs_count=7&theme=default" height="160" alt="Linguagens mais usadas" />
+   <img src="https://img.shields.io/github/followers/angelosilvanno?label=Seguidores&style=for-the-badge" alt="Seguidores GitHub" />
+    <img src="https://img.shields.io/github/repos/angelosilvanno?label=Repositórios&style=for-the-badge" alt="Repositórios GitHub" />
+    <img src="https://img.shields.io/github/stars/angelosilvanno?label=Stars&style=for-the-badge" alt="Estrelas GitHub" />
   </a> 
 </div>
 
