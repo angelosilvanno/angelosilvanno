@@ -17,7 +17,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="PostgreSQL" style="margin: 5px;" />
 </div>
 
-
+<div>
+<a href="https://github.com/angelosilvanno">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelosilvanno&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=angelosilvanno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 ## 📬 Como falar comigo?  
 <div>
   <a href="mailto:familiasabino14@gmail.com">
