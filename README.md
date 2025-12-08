@@ -21,16 +21,17 @@
 
 <div> 
   <a href="https://github.com/angelosilvanno"> 
-   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelosilvanno&layout=compact&langs_count=7&theme=blue-green"/>
-   <img loading="lazy" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=angelosilvanno&theme=blue-green&hide_border=true"/>
+   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelosilvanno&layout=compact&langs_count=7&theme=blue-green" style="border: none;"/>
+   <img loading="lazy" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=angelosilvanno&theme=blue-green&hide_border=true" style="border: none;"/>
   </a> 
 </div>
 
 ## 📬 Como falar comigo?  
 <div>
   <a href="mailto:familiasabino14@gmail.com">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border: none;" />
   </a>  
   <a href="https://www.linkedin.com/in/angelosilvanno/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: none;" />
   </a>
+</div>
