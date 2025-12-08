@@ -21,8 +21,8 @@
 
 <div> 
   <a href="https://github.com/angelosilvanno"> 
-    <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelosilvanno&layout=compact&langs_count=7&theme=blue-green"/>
-    <img loading="lazy" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=angelosilvanno&theme=blue-green&hide_border=true"/>
+   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelosilvanno&layout=compact&langs_count=7&theme=blue-green"/>
+   <img loading="lazy" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=angelosilvanno&theme=blue-green&hide_border=true"/>
   </a> 
 </div>
 
@@ -34,4 +34,3 @@
   <a href="https://www.linkedin.com/in/angelosilvanno/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
