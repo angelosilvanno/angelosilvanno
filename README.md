@@ -6,6 +6,8 @@
 
 ## 💻 Tecnologias e Estatísticas
 
+### Tecnologias
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" style="margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React" style="margin: 10px;" />
@@ -18,19 +20,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="PostgreSQL" style="margin: 5px;" />
 </div>
 
+<br />
+
+### Estatísticas
+
 <div>
   <a href="https://github.com/angelosilvanno">
     <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelosilvanno&theme=tokyonight" alt="Linguagens mais usadas"/> 
-    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelosilvanno&theme=tokyonight" alt="Estatísticas do GitHub"/> |
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelosilvanno&theme=tokyonight" alt="Estatísticas do GitHub"/> 
   </a>
 </div>  
 
 ## 📬 Como falar comigo?  
+
 <div>
   <a href="mailto:familiasabino14@gmail.com">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>  
   <a href="https://www.linkedin.com/in/angelosilvanno/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>  
- </div>   
+</div>
