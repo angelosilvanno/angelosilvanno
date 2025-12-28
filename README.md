@@ -21,9 +21,8 @@
 ## 📊 Estatísticas
 <div>
   <a href="https://github.com/angelosilvanno">
-    <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelosilvanno&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
-    <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=angelosilvanno&show_icons=true&theme=dracula" alt="Estatísticas do GitHub"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelosilvanno&theme=tokyonight" height="200"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelosilvanno&theme=tokyonight" height="200"/> |
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelosilvanno&theme=tokyonight" alt="Linguagens mais usadas"/> 
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelosilvanno&theme=tokyonight" alt="Estatísticas do GitHub"/> |
   </a>
 </div>  
 
