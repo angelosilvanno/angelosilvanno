@@ -4,7 +4,7 @@
 
 * 💻 Atuo como ***desenvolvedor front end***. No dia a dia eu crio interfaces claras e funcionais, penso na experiência de quem usa, organizo bem os componentes, cuido da acessibilidade e faço a integração com APIs para que tudo funcione de forma correta.
 
-## 🚀 Tecnologias que uso
+## 💻 Tecnologias e Estatísticas
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" style="margin: 5px;" />
@@ -18,8 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="PostgreSQL" style="margin: 5px;" />
 </div>
 
-
-## 📊 Estatísticas
 <div>
   <a href="https://github.com/angelosilvanno">
     <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelosilvanno&theme=tokyonight" alt="Linguagens mais usadas"/> 
