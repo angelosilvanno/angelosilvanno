@@ -1,7 +1,8 @@
 # Olá, eu sou o Ângelo Silvano! 👋  
 
 * 🎓 Cursando ***Bacharelado em Tecnologia da Informação*** - UFERSA
-* 💻 Atuo como ***desenvolvedor web***, construindo aplicações do ***front-end*** ao ***back-end***.
+
+* 💻 Atuo como ***desenvolvedor front end***. No dia a dia eu crio interfaces claras e funcionais, penso na experiência de quem usa, organizo bem os componentes, cuido da acessibilidade e faço a integração com APIs para que tudo funcione de forma correta.
 
 ## 🚀 Tecnologias que uso
 
