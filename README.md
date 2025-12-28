@@ -6,8 +6,6 @@
 
 ## 💻 Tecnologias e Estatísticas
 
-### Tecnologias
-
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" style="margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React" style="margin: 10px;" />
@@ -22,7 +20,6 @@
 
 <br />
 
-### Estatísticas
 
 <div>
   <a href="https://github.com/angelosilvanno">
