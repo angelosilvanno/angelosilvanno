@@ -1,4 +1,4 @@
-# Olá, eu sou o Ângelo Silvano! 👋  
+## Desenvolvedor Fullstack 
 
 Atualmente cursando Bacharelado em Tecnologia da Informação na UFERSA. Meu foco é transformar ideias em produtos digitais funcionais, organizados e fáceis de usar. Tenho experiência prática desenvolvendo soluções para delivery e gestão de saúde.
 
