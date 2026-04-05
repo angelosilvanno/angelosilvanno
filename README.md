@@ -1,8 +1,14 @@
 # Olá, eu sou o Ângelo Silvano! 👋  
 
-* 🎓 Cursando ***Bacharelado em Tecnologia da Informação*** - UFERSA
+* Desenvolvedor Fullstack
+Atualmente cursando Bacharelado em Tecnologia da Informação na UFERSA. Meu foco é transformar ideias em produtos digitais funcionais, organizados e fáceis de usar. Tenho experiência prática desenvolvendo soluções para delivery e gestão de saúde.
 
-* 💻 Atuo como ***desenvolvedor front end***. No dia a dia eu crio interfaces claras e funcionais, penso na experiência de quem usa, organizo bem os componentes, cuido da acessibilidade e faço a integração com APIs para que tudo funcione de forma correta.
+🚀 O que eu faço
+* Front-end: Criação de interfaces modernas e responsivas com Next.js e Tailwind CSS.
+
+* Back-end: Construção de APIs seguras e sistemas escaláveis utilizando Node.js e PostgreSQL.
+
+* Qualidade: Foco em código limpo, organização de componentes e uma ótima experiência para quem usa.
 
 ## 💻 Tecnologias e Estatísticas
 
