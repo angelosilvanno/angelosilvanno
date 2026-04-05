@@ -26,3 +26,5 @@ Atualmente cursando Bacharelado em Tecnologia da Informação na UFERSA. Meu foc
     <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>  
 </div>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:familiasabino14@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelosilvanno/)
