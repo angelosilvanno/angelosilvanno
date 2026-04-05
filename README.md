@@ -13,7 +13,6 @@ Atualmente cursando Bacharelado em Tecnologia da Informação na UFERSA. Meu foc
 <br />
 
 ## Estatísticas
-
 <div>
   <a href="https://github.com/angelosilvanno">
     <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelosilvanno&theme=tokyonight" alt="Linguagens mais usadas"/> 
