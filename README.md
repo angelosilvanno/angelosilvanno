@@ -2,7 +2,7 @@
 
 Atualmente cursando Bacharelado em Tecnologia da Informação na UFERSA. Meu foco é transformar ideias em produtos digitais funcionais, organizados e fáceis de usar. Tenho experiência prática desenvolvendo soluções para delivery e gestão de saúde.
 
-🚀 O que eu faço
+# O que eu faço
 * Front-end: Criação de interfaces modernas e responsivas com Next.js e Tailwind CSS.
 * Back-end: Construção de APIs seguras e sistemas escaláveis utilizando Node.js e PostgreSQL.
 
