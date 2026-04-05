@@ -6,7 +6,6 @@ Atualmente cursando Bacharelado em Tecnologia da Informação na UFERSA. Meu foc
 🚀 O que eu faço
 * Front-end: Criação de interfaces modernas e responsivas com Next.js e Tailwind CSS.
 * Back-end: Construção de APIs seguras e sistemas escaláveis utilizando Node.js e PostgreSQL.
-* Qualidade: Foco em código limpo, organização de componentes e uma ótima experiência para quem usa.
 
 ## 💻 Tecnologias e Estatísticas
 
